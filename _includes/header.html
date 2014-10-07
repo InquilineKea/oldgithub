@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} &mdash;{% endif %} {{ site.name }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="Hugo Melo">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+
+  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/style.css">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+  <![endif]-->
+
+  {% include analytics.html %}
+
+</head>
+
+<body {% if page.class %} class="{{ page.class }}"{% endif %}>
+<div class="container">
+  <div class="top"><a id="logo" href="/">{{ site.name }}</a></div>
+
+<div class="navigation">
+  <p><a href="/about">About</a> :: <a href="/archives/">Archives</a> :: <a href="/subscribe/">Subscribe</a>
+</div><!-- /end .navigation-->
+
+  <div class="body">

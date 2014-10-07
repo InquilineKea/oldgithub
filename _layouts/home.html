@@ -1,0 +1,18 @@
+{% include header.html %}
+
+  <section>
+    {% for post in site.posts limit: 1 %}
+      <article>
+          <h1><a href="{{ post.url }}" id="posttitle" rel="bookmark">{{ post.title }}</a></h1>
+          <div class="post">
+            {{ post.content }}
+          </div>
+      </article>
+    {% endfor %}
+  </section>
+
+  <br />
+  <a href="/archives/" class="all_posts">See all posts &raquo;</a>
+
+
+{% include footer.html %}
