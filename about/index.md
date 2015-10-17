@@ -16,9 +16,8 @@ Social Things:
 <br>
 Current Projects:
 
-
-- [Brainstream](https://github.com/squanto/brainstream)
 - Jammin: a bittorrent-based livestreaming platform
+- [learning](https://github.com/squanto/learning): a collection of learnings
 
 <br>
 Past Projects:
@@ -26,3 +25,4 @@ Past Projects:
 - [simplegov.com](http://simplegov.com/)
 - [greatschools.org](http://www.greatschools.org/california/)
 - [inboxvudu.com](http://www.inboxvudu.com/)
+- [keepmehonest](https://github.com/squanto/keepmehonest)
