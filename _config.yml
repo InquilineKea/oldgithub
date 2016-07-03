@@ -7,7 +7,7 @@ name: Hugo Melo
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
+# plugins_dir:     ./_plugins
 
 future:      true
 lsi:         false
