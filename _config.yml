@@ -20,5 +20,7 @@ github: squanto
 tinyletter: hugomelo
 disqus: hugo-melo
 
+incremental: true
+
 rdiscount:
   extensions: []
