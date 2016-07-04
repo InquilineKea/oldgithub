@@ -7,20 +7,19 @@ name: Hugo Melo
 
 source:      .
 destination: ./_site
-# plugins_dir:     ./_plugins
 
 future:      true
 lsi:         false
-highlighter: rouge
 markdown:    kramdown
 permalink:   /:title
+highlighter: rouge
 
-comments: true
 github: squanto
 tinyletter: hugomelo
-disqus: hugo-melo
-
 incremental: true
-
 rdiscount:
   extensions: []
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
