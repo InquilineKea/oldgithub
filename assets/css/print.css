@@ -1,0 +1,14 @@
+@media print {
+  body {
+      font-family: Helvetica,sans-serif;
+      font-size: 14px;
+      background: white;
+      color: black;
+      margin: 10;
+      width: auto;
+  }
+  .container { display: block }
+  .navigation { display: none }
+  .subscribe { display: none }
+  .navigation { display: none }
+}

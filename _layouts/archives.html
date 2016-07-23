@@ -1,15 +1,5 @@
 {% include header.html %}
 
-<script>
-  window.onload = function () {
-    if (window.location.search == "?r=1") {
-      errorEl = document.getElementById("error-message");
-      errorEl.style.display = 'block';
-    }
-  }
-</script>
-
-
 <h1>Archives</h1>
 {% include search.html %}
 
@@ -30,5 +20,14 @@
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<script>
+  window.onload = function () {
+    if (window.location.search == "?r=1") {
+      errorEl = document.getElementById("error-message");
+      errorEl.style.display = 'block';
+    }
+  }
+</script>
 
 {% include footer.html %}
