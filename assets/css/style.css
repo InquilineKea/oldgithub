@@ -149,18 +149,6 @@
     line-height: 2.5em;
     color: #dedede;
   }
-  /* previous & next posts at bottom */
-  .post-nav { margin-bottom: 3em }
-  .post-nav p {
-    text-transform: uppercase;
-    color: #666;
-    font-size: .7em;
-    letter-spacing: .2em;
-    font-family: "Open Sans",Helvetica,sans-serif;
-    font-weight: bold;
-    margin-top: 0;
-    margin-bottom: 1em;
-  }
   /* "see all posts" at bottom of home page */
   a.all_posts {
       font-size: 2.4em;
