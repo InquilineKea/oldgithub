@@ -21,23 +21,14 @@
   }
   .top a {
     font-size: 2em;
-    font-weight: normal;
     color: #333;
     letter-spacing: .01em;
     margin: 0 .05em 0 0;
+    border: none;
+    text-decoration: none;
   }
   .top a:hover {
     color: #6e6e6e;
-  }
-  .top a:link {
-    text-decoration: none;
-    border-width: 0 0 1px 0;
-    border-style: none none solid none;
-    border-color: #333;
-  }
-
-  .top a:visited {
-    text-decoration: none;
   }
 
   h1 {
@@ -177,16 +168,17 @@
     text-decoration: underline;
   }
 
-  .navigation p {
+  .navigation li {
+    list-style: none;
+    display: inline;
     font-size: 1em;
     letter-spacing: .22em;
-    text-transform: capitalize;
     text-align: center;
     color: #333;
     padding: 0;
     margin: 0;
     margin-left: 0;
-    padding-left: 0;
+    padding-left: 5px;
     font-family: "Open Sans", Helvetica, sans-serif;
   }
   .navigation a {
@@ -198,32 +190,35 @@
 @media only screen and (max-device-width: 800px) {
   /* makes blog title not fade on touch screen */
   .top {
-      margin: auto;
-      -webkit-opacity: 1;
-      -moz-opacity: 1;
-      opacity: 1;
+    margin: auto;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    opacity: 1;
   }
-  .navigation p { font-size: .8em }
+  .navigation li {
+    font-size: .8em;
+    display: inline;
+  }
   .subscribe ul {
-      margin-top: 4em;
-      font-size: 1.8em;
+    margin-top: 4em;
+    font-size: 1.8em;
   }
-  h1 { font-size: 2.5em }
-  h2 { font-size: 2em }
-  h3 { font-size: 1.7em }
+  h1 { font-size: 2.5em; }
+  h2 { font-size: 2em; }
+  h3 { font-size: 1.7em; }
   p {
-      font-size: 1.5em;
-      line-height: 1.5em;
+    font-size: 1.5em;
+    line-height: 1.5em;
   }
   .body ul {
-      font-size: 1.5em;
-      line-height: 1em;
-      padding: .1;
+    font-size: 1.5em;
+    line-height: 1em;
+    padding: .1;
   }
   .body ol {
-      font-size: 1.5em;
-      line-height: 1em;
-      padding: .1;
+    font-size: 1.5em;
+    line-height: 1em;
+    padding: .1;
   }
 }
 
@@ -231,25 +226,25 @@
 @media screen and (max-width: 800px) {
   .navigation p { font-size: .8em }
   .subscribe ul {
-      margin-top: 4em;
-      font-size: 1.8em;
+    margin-top: 4em;
+    font-size: 1.8em;
   }
-  h1 { font-size: 2.5em }
-  h2 { font-size: 2em }
-  h3 { font-size: 1.7em }
+  h1 { font-size: 2.5em; }
+  h2 { font-size: 2em; }
+  h3 { font-size: 1.7em; }
   p {
-      font-size: 1.4em;
-      line-height: 1.5em;
+    font-size: 1.4em;
+    line-height: 1.5em;
   }
   .body ul {
-      font-size: 1.4em;
-      line-height: 1em;
-      padding: .1;
+    font-size: 1.4em;
+    line-height: 1em;
+    padding: .1;
   }
   .body ol {
-      font-size: 1.5em;
-      line-height: 1em;
-      padding: .1;
+    font-size: 1.5em;
+    line-height: 1em;
+    padding: .1;
   }
 }
 
@@ -265,30 +260,30 @@
   h2 { font-size: 2em }
   h3 { font-size: 1.8em }
   p {
-      font-size: 1.2em;
-      line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.4em;
   }
   .body ul {
-      list-style-type: disc;
-      list-style-position: inside;
-      font-size: 1.2em;
-      line-height: 1em;
-      padding: .5em;
-      margin: 0;
+    list-style-type: disc;
+    list-style-position: inside;
+    font-size: 1.2em;
+    line-height: 1em;
+    padding: .5em;
+    margin: 0;
   }
   .body ol {
-      list-style-position: inside;
-      font-size: 1.2em;
-      line-height: 1em;
-      padding: .5em;
-      margin: 0;
+    list-style-position: inside;
+    font-size: 1.2em;
+    line-height: 1em;
+    padding: .5em;
+    margin: 0;
   }
   .body li {
-      margin: 0;
+    margin: 0;
   }
   .navigation p { font-size: 1.5em }
   .subscribe p {
-      font-size: 1em;
-      margin-top: 1em;
+    font-size: 1em;
+    margin-top: 1em;
   }
 }
