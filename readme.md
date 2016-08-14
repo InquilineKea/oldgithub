@@ -16,9 +16,10 @@ Inspirations:
 - http://37signals.com/svn
 
 
-Using [Jekyll 3.1.6](https://github.com/jekyll/jekyll)
+Using [Jekyll](https://github.com/jekyll/jekyll)
 
 # todo
 disable http, redirect to https (?)
 https://gist.github.com/asaaki/1007420
 add favicon
+drafts and such
