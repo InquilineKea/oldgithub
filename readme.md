@@ -2,9 +2,15 @@
 
 The site source for [hugomelo.com](https://hugomelo.com)
 
-## test
+## using locally
 ```
 jekyll serve
+```
+
+or for https:
+
+```
+jekyll serve --ssl-cert=server.crt --ssl-key=server.key
 ```
 
 
