@@ -1,0 +1,92 @@
+.tinycontainer body {font:18px/30px Georgia, 'Times New Roman', serif; min-width:400px; margin:0; padding:75px 0 0 0; text-align:center;}
+.tinycontainer p {padding:0 0 10px 0;}
+.tinycontainer a {color:#336699;}
+.tinycontainer textarea {font:12px/18px 'Helvetica', Arial, sans-serif;}
+.tinycontainer {
+    position: relative;
+    border-width:0 !important;
+    border-color:transparent !important;
+    margin:0;
+    text-align:left;
+    background-color:#ffffff;
+    background:rgba(255,255,255,.9);
+    padding: 60px;
+    line-height:150%;
+    -moz-box-shadow:0 1px 1px rgba(0, 0, 0, .5);
+    -webkit-box-shadow:0 1px 1px rgba(0, 0, 0, .5);
+    box-shadow:0 1px 1px rgba(0, 0, 0, .5);
+}
+.tinycontainer .clear {clear:both;}
+
+/* Form */
+.tinycontainer form {
+  font:16px/20px 'Helvetica', Arial, sans-serif;
+  display:block;
+  padding:15px 0 10px 0;
+  margin-top:15px;
+  border-top:1px solid #ccc;
+}
+.tinycontainer label {clear:both; display:block; margin:8px 0; font-weight:bold; position:relative; line-height:150%; font-family:Helvetica; font-size: 14px; color: #333333;}
+.tinycontainer .email-group input {
+  display:block;
+  float:left;
+  width:60%;
+  margin-right:3%;
+  min-width: 160px;
+  padding:12px 10px;
+  border:1px solid #ccc;
+  -moz-border-radius:4px;
+  border-radius:4px;
+  -webkit-border-radius:4px;
+  font-size:14px;
+}
+
+.tinycontainer .email-group .button {
+    width:30%;
+    margin:0;
+    min-width:100px;
+}
+.tinycontainer .button {
+    display:inline-block;
+    white-space:nowrap;
+    height:40px;
+    line-height:42px;
+    margin:0 5px 0 0;
+    padding:0 10px;
+    text-decoration:none;
+    text-transform:uppercase;
+    text-align:center;
+    font-weight:bold;
+    font-style:normal;
+    font-size:14px;
+    cursor:pointer;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    border:0;
+    vertical-align:top;
+  }
+
+.tinycontainer .button:hover { opacity:.8; }
+
+/* Mobile Tweaks */
+.tinycontainer body {-webkit-text-size-adjust:none;}
+.tinycontainer input {-webkit-appearance: none;}
+.tinycontainer input[type=checkbox] {-webkit-appearance: checkbox;}
+.tinycontainer input[type=radio] {-webkit-appearance: radio;}
+
+
+.tinycontainer .byline {
+  font-family:Georgia, Times New Roman, Times, serif;
+  color:#111111;
+}
+.tinycontainer .description, label {
+  font-family:Georgia, Times New Roman, Times, serif;
+  color:#111111;
+}
+.tinycontainer .button {
+  font-family:Helvetica, Arial, sans-serif;
+  color:#FFFFFF;
+  background-color:#333333;
+}
+.tinycontainer .view-messages { margin: 15px 0; }
