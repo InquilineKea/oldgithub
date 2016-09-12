@@ -1,13 +1,15 @@
 <!-- For the archives page -->
 <script>
-  var domainroot="hugomelo.com"
+  var domainroot="hugomelo.com";
   function Gsitesearch(curobj) {
-    curobj.q.value="site:"+ domainroot + " " + curobj.qfront.value
+    curobj.q.value="site:"+ domainroot + " " + curobj.qfront.value;
   }
 </script>
 
 <form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
-  <p class="search">Search this site:<br />
-  <input name="q" type="hidden" class="texta" />
-  <input name="qfront" type="text" style="width: 180px; text-size: 12px; height: 14px;" /> </p>
+  <p class="search">
+    Search this site:<br />
+    <input name="q" type="hidden" class="texta" />
+    <input name="qfront" type="text" style="width: 180px; text-size: 12px; height: 14px;" />
+  </p>
 </form>
