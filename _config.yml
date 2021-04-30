@@ -2,7 +2,7 @@ safe:        false
 port: 4000
 url: http://localhost:4000
 
-name: Hugo Melo
+name: Alex K Chen
 
 source:      .
 destination: ./_site
