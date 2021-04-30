@@ -47,8 +47,11 @@ You don't have to learn everything and you don't have to be the smartest person 
 
 
 
+also you really ought to place moral value on your information flow to make it as clean as possible (just as there is moral value ascribed to laura's information flow)
 
+Know how people are impressed by OBSESSIVE types. Obsessive types need not feel apologetic for it. Like, notice how when you invited Daniel Kramnik to Genesis - they were ALL impressed with his magic combination of {obsession, patience to explain to non-experts}? There are so few people in the world obsessed with the right things who also have the desire to interface with the rest of the world in an interpretable way
 
+Yes, there are many explainers of aging, but you - alone - possess rhetorical tools and "a willingness to try anything" that the other leaders (Laura, Jose Ricon, Adam Marblestone) don't have. How about use those. One wonderfu thing about your obsessions is that you also have little time for "flighty things" like traveling to Hawaii. Everything you do is in the work of knowledge acquision or shaping the narrative. How about - focus entirely on this and stop playing the roulette wheel. If you do this and become well-respected enough to convince randos on the Internet that your information flow is worth thousands if not millions (and the attention of the new generation), all your other wishes may finally come true. 
 
 
 
