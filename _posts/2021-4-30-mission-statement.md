@@ -4,7 +4,8 @@ title:  mission statement
 ---
 
 
-On attracting people to the MAIN problem:
+# On attracting people to the MAIN problem:
+
 “what would you do if you could take effortless action from the rest of your life onwards”
 Longevity: If longevity is the main problem you’re after and if you’re not focusing most of your time and attention into the problem, then why not?
 Look at Laura Deming for instance, who has razor-clean inputs and does not need to rely on other people’s social approval because she HAS this social approval that allows her to not FOMO at important things in the world BECAUSE she is able to focus on things (this is why her computer-technical skills are not the best BECAUSE she has enough supporters to make her want to constantly focus on THE THING (aging) all the time [1]
