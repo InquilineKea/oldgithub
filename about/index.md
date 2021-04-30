@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-Former web developer learning how to build cryptocurrencies.
+<TODO: write an about
 
 <br>
 
-- [Github](https://github.com/squanto)
-- [Twitter](https://twitter.com/hugomelo)
+- [Github](https://github.com/InquilineKea)
+- [Twitter](https://twitter.com/InquilineKea)
