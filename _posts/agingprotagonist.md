@@ -56,7 +56,7 @@ Yes, there are many explainers of aging, but you - alone - possess rhetorical to
 
 
 
-
+instructions on how to reconfigure people's actions so they value their time more and sort their actions in order of a framewokr that makes them want to have more of you SO they value their time more (writing more is how you do it, rather than constantly ask for more information)
 
 
 
