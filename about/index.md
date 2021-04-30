@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<TODO: write an about
+pls write an about
 
 <br>
 
