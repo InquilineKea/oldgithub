@@ -59,7 +59,7 @@ Yes, there are many explainers of aging, but you - alone - possess rhetorical to
 instructions on how to reconfigure people's actions so they value their time more and sort their actions in order of a framewokr that makes them want to have more of you SO they value their time more (writing more is how you do it, rather than constantly ask for more information)
 
 
-
+You can slowly render your world in a way that minimizes the amount of negative emotion you feel while still convincing the world that it neds tos upport you in your endeavours. You have a privilege of resourcefulness that many stressed grad students do not have. Use this so you can become the super-valuable protagonist. 
 
 
 
