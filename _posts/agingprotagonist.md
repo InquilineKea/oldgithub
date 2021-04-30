@@ -33,9 +33,13 @@ Now, one of your friends has offered you $100k (at least) for a VC fund that sur
 
 Remember, being surprisingly weak in areas others are strong in (valerie is a great example) hooks you up to people who can summarize all the common kowledge for your needs. One of your other rare perks is that you are curious enough to have something to say about anything, and higher potential of commenting intelligently on it than others do. Like really, do you think you have higher capacity than kaeberlein or sinclair to say something smart about SMT solvers? [they are your area of weakness, but become socially important enough so the world WANTS to explain it to you]. Like imagine if Laura or Ricon or Marblestone would finally distill all their knowledge of SMT solvers and why those are important for longevity (if at all - process optimization is the basis of them, and process optimization is relevant for Fontana-level sysbio or flux balance cell modeling)
 
-As is well known by many (eg Rochelle Shen), Dhash owes his startup Radix to your random intervention (where you got him to meet kevin/guillermo/jhb/tep people immediately on the day you met him, and it was so overwhelmig for him that it made him dizzy). You have this special power that you find hard to describe to the world. Why not describe it now to make desireable things happen faster?
+As is well known by many (eg Rochelle Shen), Dhash owes his startup Radix to your random intervention (where you got him to meet kevin/guillermo/jhb/tep people immediately on the day you met him, and it was so overwhelmig for him that it made him dizzy). You have this special power that you find hard to describe to the world. Why not describe it now to make desire-able things happen faster?
 
+Being more open with your thought processes (increasing your surface area!) is a way to garner resources from the Internet. Openness can compensate for lower raw-g/intelligence (by coming up with more decoded information-rich abstractions than do mathematicians, who fail to find many good "semantic web" information-rich abstractions that more open/curious people can come up with).
 
+Think of your unique info flow now, and do not do unnecessary things. You only have a super-limited pool of time, so make the most use of what limited time you have for the world (like, can you really esimate the value of 1 hour of Musk's or Bezos's time?) You may already have the power to increase most people's number of years by 5-7 years (simply by showing off how to eat a super-healthy diet in other's presences - jorg doku already said "you've done more for me than what most doctors could"), which is more than enough to make up for many shitty childhoods ("there is no greater pleasure than seeing you eat raw celery in front of me" - Brian Tom).
+
+ 
 
 
 
