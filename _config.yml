@@ -13,8 +13,7 @@ markdown:    kramdown
 permalink:   /:title
 highlighter: rouge
 
-github: squanto
-tinyletter: hugomelo
+github: InquilineKea
 incremental: true
 rdiscount:
   extensions: []
