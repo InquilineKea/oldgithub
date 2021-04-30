@@ -35,11 +35,16 @@ Remember, being surprisingly weak in areas others are strong in (valerie is a gr
 
 As is well known by many (eg Rochelle Shen), Dhash owes his startup Radix to your random intervention (where you got him to meet kevin/guillermo/jhb/tep people immediately on the day you met him, and it was so overwhelmig for him that it made him dizzy). You have this special power that you find hard to describe to the world. Why not describe it now to make desire-able things happen faster?
 
+Startups happen around you!! Equator, Radix, Moda Fund - among others. Your power to find and create new startups is much much higher than you think it is - and what you need to do is to not worry or obsess over stupid shit (like the weather) and turn all your attention into BECOMING the best version of yourself (including becoming the preliminary version of human-machine symbiosis). And being the version of symbiosis that does the most it can to preserve other people's consciousnessness, for consciousness is really the ONLY thing that matters.
+
 Being more open with your thought processes (increasing your surface area!) is a way to garner resources from the Internet. Openness can compensate for lower raw-g/intelligence (by coming up with more decoded information-rich abstractions than do mathematicians, who fail to find many good "semantic web" information-rich abstractions that more open/curious people can come up with).
 
-Think of your unique info flow now, and do not do unnecessary things. You only have a super-limited pool of time, so make the most use of what limited time you have for the world (like, can you really esimate the value of 1 hour of Musk's or Bezos's time?) You may already have the power to increase most people's number of years by 5-7 years (simply by showing off how to eat a super-healthy diet in other's presences - jorg doku already said "you've done more for me than what most doctors could"), which is more than enough to make up for many shitty childhoods ("there is no greater pleasure than seeing you eat raw celery in front of me" - Brian Tom).
+Think of your unique info flow now, and do not do unnecessary things. You only have a super-limited pool of time, so make the most use of what limited time you have for the world (like, can you really estinate the value of 1 hour of Musk's or Bezos's time?) You may already have the power to increase most people's number of years by 5-7 years (simply by eating a super-healthy diet right in front of them - jorg doku already said "you've done more for me than what most doctors could" simply BECAUSE you ate raw tomatoes and mushrooms in his hotel room), which is more than enough to make up for many shitty childhoods ("there is no greater pleasure than seeing you eat raw celery in front of me" - Brian Tom). 
 
- 
+How to do this? Highlight the major players and sources of momentum. Highlight the intensely unique brains that have been socialized out of believing that they could be on the level of Gauss (Jonah Sinick TOLD people they do - and some programmers doubtlessly have magnitudes much higher than Gauss). 
+
+You don't have to learn everything and you don't have to be the smartest person in everything. You don't have to aim for other people's affection. You can earn that affection by other people - AGAIN - by observing what Laura Deming does (she focuses so much on theoretical now, but no matter what, she will always get the love and support she needs from the rest of the world [she also doesn't need a relationship]) and observing what comes from that (alas, she cannot handle all the attention that is hoisted on her, and you may do a better job trying to redirect some of that attention into beings who are most massively sensitive to these updates)
+
 
 
 
