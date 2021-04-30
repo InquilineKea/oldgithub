@@ -33,7 +33,7 @@ Now, one of your friends has offered you $100k (at least) for a VC fund that sur
 
 Remember, being surprisingly weak in areas others are strong in (valerie is a great example) hooks you up to people who can summarize all the common kowledge for your needs. One of your other rare perks is that you are curious enough to have something to say about anything, and higher potential of commenting intelligently on it than others do. Like really, do you think you have higher capacity than kaeberlein or sinclair to say something smart about SMT solvers? [they are your area of weakness, but become socially important enough so the world WANTS to explain it to you]. Like imagine if Laura or Ricon or Marblestone would finally distill all their knowledge of SMT solvers and why those are important for longevity (if at all - process optimization is the basis of them, and process optimization is relevant for Fontana-level sysbio or flux balance cell modeling)
 
-
+As is well known by many (eg Rochelle Shen), Dhash owes his startup Radix to your random intervention (where you got him to meet kevin/guillermo/jhb/tep people immediately on the day you met him, and it was so overwhelmig for him that it made him dizzy). You have this special power that you find hard to describe to the world. Why not describe it now to make desireable things happen faster?
 
 
 
