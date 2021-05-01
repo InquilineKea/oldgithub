@@ -6,7 +6,7 @@ title: major players in aging
 OUTLINE of players in aging who are worth paying far more attention to than average:
 
 - SENS Foundation (changed leadership under Jim O'Neill), seems to take SOME preference towards funding immediately applicable areas of aging
-- JP de Magalhaes (the only aging/longevity scientist who publicly says he wants to live forever. Is more open than most scientists are. Has created very large web infrastructures with his research group and does bioinformatics research)
+- JP de Magalhaes (the only aging/longevity scientist who publicly says he wants to live forever. Is more open than most scientists are (though not as much as I consider ideal). Has created very large web infrastructures with his research group and does bioinformatics research)
 - Aubrey de Grey (important for defining the original track, many mainstream scientists in aging dislike him for odd reasons. Often repeats himself. Still useful to talk to and maintains a lot of the infoflwo int eh community)
 - reason @ fightaging (writes fightaging.org, which I've never seen get anything wrong [has great general epistemics]. More dedicated to this than most poeple)
 - Aging_Scientist on Twitter (the austrian person), Attila Csordas => generally smart people with high analytical skills who spend much of their time in the area
@@ -21,7 +21,7 @@ OUTLINE of players in aging who are worth paying far more attention to than aver
 - Jose Luis Ricon (smart, unattached, kind of identifies as Aspie-ish). Doesn't care *that* much about aging, but sees it as an interesting intellectual problem. Extremely smart, creating outlines with Adam Marblestone on how to fix the problem
 - Adam Marblestone (really cares about not dying, smartest physicist+technologist+engineer I've ever come across, plus super-kind kindness)
 - Sarah Constantin (used to run the longevity research institute). Has very high epistemic significance
-- Nathan Cheng/Robert Ziman of longevitymarketcap. They seem to know that the ONLY reasonable path forward is to become obsessed with the area, and they do cover a lot of the recent investing in their newsletter which gets lots of reviews
+- Nathan Cheng/Robert Ziman of longevitymarketcap. They seem to know that the ONLY reasonable path forward is to become obsessed with the area, and they do cover a lot of the recent investing in their newsletter which gets lots of reviews. They cover content orthogonal to fightaging.org and might be almost as widely-read as fightaging.org in the long-run
 - Vadim Gladyshev (his papers are more worth reading than those of practically any other research scientist in the area - and will STAY worth reading for a long time). More likely to "get" things than other aging scientists.
 - other aging VCs (eg James Peyer of Apollo)
 
