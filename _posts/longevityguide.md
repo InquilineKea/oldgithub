@@ -41,9 +41,11 @@ HIIT, read Peter Attia, read Ben Greenfield fitness, read SOME Dave Asprey (but 
 
 Get an adjustable curved desk if you can, and hold monitor at eye level. Try rolfing to get your posture aligned (make sure monitor is always at eye level to minimize tension).
 
-Going for constant novelty may increase neuroplasticity. 
+Being consistently neophilic throughout life may increase neuroplasticity. There are not many consistently novelty-seeking/super-open adults, but Joon Yun is one of them. Psychedelic communities seem to have more of them than most people, as do university towns. 
 
-Think about future trends and adjust yourself to them (we will be more digital/integrated than before)/
+Staying friends with people in investing/crypto related communities can be a way to massively increase your wealth without trying (but this is risky). I know many people who have gotten rich off of crypto alone - enough to never have to work a stressful job ever again. In that case, you can optimize for online output *and* helping train/mentor a new generation of people who can be more convinced (a la fable of the dragon tyrant) that this IS the most important problem and they should consider working in it as much as they would work hard in school (as Laura Deming knows, school is a giant waste - her not being schooled is the reason why she is so independent)
+
+Think about future trends and try to integrate yourself into them  (eg try to think of a world where human-machine symbiosis is more robust than ever)
 
 I have a guide for avoiding microplastics (see microplastics.md)
 
@@ -51,9 +53,12 @@ Do what you can to directly support/fund biotechnology research (especially the 
 
 OTHER longevity guides: Michael Rae, crsociety.org, livingthecrway.com have many guides.
 
+Provide moral support to biohackers and human guinea pigs - they get so much hate, but they produce so much data that is so valuable to other people, whether or not their interventions work. 
+
 Make sure you stay relevant/important long-run (so consume long content, try to vlog some portions of your life so future people [the people who will be MOST important in developing the technology to solve the longevity thing] ]will be able to see the "young version of you")
 
 If you have kids, consider co-raising them in a commune (qiaochu/alterman/conor white-sullivan consider this). It may significantly reduce the amount of intergenerational trauma that is experienced. 
+
 
 ====
 
