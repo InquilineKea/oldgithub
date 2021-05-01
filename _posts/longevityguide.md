@@ -70,7 +70,7 @@ SOCIAL FACTORS:
 
 Spending time with those who are visibly obsessed with longevity will help! I am far more on the diet than exercise side (as Matt Kaeberlein knows, diet is the only way to increase the *cap* on lifespan, not just healthspan), but the exercise side (esp HIIT side) will help too. 
 
-Having diverse friend groups (esp across age) will help insulate you against shocks to the friendgroup. 
+Having diverse friend groups (esp across age) will help insulate you against shocks that may increase correlated friend drift across multiple members of the friendgroup.
 
 It's unclear what the effects of stress (as experienced in western populations) are on longevity (some stress, esp when intermitently placed, may be better than no stress). Having a strong sense of self-direction (and not being trapped) is what psychologically helps the most. Most of your same-age friends may die earlier than you, so it is also important to get close to people across generations (especially by mentoring younger super-receptive people). A cool perk of longevity is that people who really *get it* will never drift, because longevity is always on the back of everyone's minds.
 
