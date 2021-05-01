@@ -9,16 +9,15 @@ I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-
 
 One of the great perks of longevity is that doing things better than all others can alone get you 10-15 years of extra life relative to others, which means that spending 6 months obsessed with this can lead to insane returns. The future 100 years from now may be exciting like *nothing else*, so if you are able to delay some types of gratifiction, you may have a chance of seeing the literal transhumanist utopia that transcends all your prior values. 
 
-Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycation agents, glycine (esp as a precursor to glutathionine), N-acetyl-cysteine, turmuric/curcumin, metformin/rapamycin/acarbose, folic acid/B12 (folic acid and manganese levels seem to be most correlated with longevity), Vitamin D, caffeine/modafinil, selegiline, lithium (ESP impt for preserving the brain), 17alpha-estradiol (if male), deuterated heavy water [small amounts], deuterated PUFAs (experimental). 
+Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycation agents, glycine (esp as a precursor to glutathionine), N-acetyl-cysteine, turmuric/curcumin, metformin/rapamycin/acarbose, folic acid/B12 (folic acid and manganese levels seem to be most correlated with longevity), Vitamin D, caffeine/modafinil [for appetite suppression], selegiline, lithium (ESP impt for preserving the brain), 17alpha-estradiol (if male), deuterated heavy water [small amounts], deuterated PUFAs (experimental). 
 
 If you don't have space for taking too many - I would make space for for rapamycin, lithium, and caffeine/modafinil.
 
 Some smart people I know (eg Alex Pustov) suggest methylene blue. 
 
-
 Check ITP and Longevity Research Institute for indications of what most reliably works. 
 
-Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
+Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - monounsaturated fatty acids or short-chain fatty acids (unroasted nuts, olives, avocados) are the healthiest source of primary energy on top of a diet primarily composed of fruits and vegetables. One doctor suggests a protein heavy diet + rapamycin (this demands an experiment) - protein stimulates mTOR which can be blocked by rapamycin, though protein is also subject to decomposition via nitrogeneous waste products that *might* not be great.
 
 The easiest way to get people who value their time to exercise: run rather than walk from point A to point B. Do anything you can to maximize energy levels/reduce irritability levels (exercise is so much easier when you don't feel tired all the time)
 
@@ -37,11 +36,13 @@ Wear N95/N99 masks when on the subways or near major roadways. Thomas Talheim ha
 
 Taking rapamycin + metformin + acarbose may also get you in CR-ish similar states, though there are some effects of CR (eg reduced acetyl-CoA levels or reduced ETC flux) that this combination may not simulate. Most of the smartest aging scientists i know are more bullish on rapamycin than metformin, though they synergize when taken together.
 
-Get regular tracking of all metabolites (the more comprehensive the metabolite panel, the better - try to get metabolon or SomaLogic panels if you can, or whatever is used by the Wyss-Corey lab). I found out I was plasmalogen-deficient by getting OpenCures, and NAD+ deficient by getting a jinfiniti NAD+ test. 
+Get regular tracking of all metabolites/proteins (the more comprehensive the metabolite panel, the better - try to get metabolon or SomaLogic panels if you can, or panels used by the  Wyss-Corey lab). I found out I was plasmalogen-deficient by getting OpenCures, and NAD+ deficient by getting a jinfiniti NAD+ test. 
 
 Get DEXA scans (dexafit) to track muscle density and bone density over time. 
 
 Get a brain MRI every few years or so (to measure changes in brain volume). 7T over 3T if you can, but any resolution helps. 
+
+Get a spirometer to track changes in FEV1 over time.
 
 Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get QEEG to see areas of your brain where you can see more work on. Meditation can help calm a brain down and make brain cells fire less - it can also decrease gray matter loss with age. 
 
@@ -69,7 +70,7 @@ Think about future trends and try to integrate yourself into them (eg try to thi
 
 I have a guide for avoiding microplastics (see microplastics.md)
 
-Do what you can to directly support/fund biotechnology research (especially the type of "tools development" that will make all biotechnology research faster, more open, less labor-intense, and automatable). Many papers written in the past may be re-written in a high-throughput (do ALL the seq's) type of research. 
+Do what you can to directly support/fund biotechnology research (especially the type of "tools development" that will make all biotechnology research faster, more open, less labor-intense, and automatable). Many papers written in the past may be re-written in a high-throughput (do ALL the seq's) type of research. The research that *really* matters are the cell replacement/cell reprogramming/exosomes/chimerism papers.
 
 OTHER longevity guides: Michael Rae, crsociety.org, livingthecrway.com have many guides.
 
