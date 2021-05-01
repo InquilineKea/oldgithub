@@ -75,7 +75,7 @@ Having diverse friend groups (esp across age) will help insulate you against sho
 
 It's unclear what the effects of stress (as experienced in western populations) are on longevity (some stress, esp when intermitently placed, may be better than no stress). Having a strong sense of self-direction (and not being trapped) is what psychologically helps the most. Most of your same-age friends may die earlier than you, so it is also important to get close to people across generations (especially by mentoring younger super-receptive people). A cool perk of longevity is that people who really *get it* will never drift, because longevity is always on the back of everyone's minds.
 
-Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled. )
+Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled). https://www.briantimar.com/notes/mimetic/mimetic/?fbclid=IwAR1vNx0WqRLcloEErDinboZBp7Ux0G1T4_dv4KZSq0i1UrxAm1TcYw4fzhk is good for reducing stress (also see dan wang's college as girardian terror). You do not need to obsess over GPAs - no one cares, and leaving this system earlier rather than later is important. 
 
 Try to form an aging cult/a group of people who are as similarly obsessed with aging as I am - it would do *a lot*. AFAIK, even among aging aficionados, I don't think anyone in the world is as obsessed with this as I am...
 
