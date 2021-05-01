@@ -1,0 +1,50 @@
+---
+layout: post
+title: longevity guide - how to live longer
+---
+
+Many many many people before me have written longevity guides (eg the nintil longevity guide). There is still a chance that what I write might be higher-impact than what others have written before me. The reasons being (a) I seem to be more obsessed with this than most people are so this guide may be more of a persistent thing you want to keep looking up than all the other longevity guides. In terms of my precision-recall balance (compared to legit longevity guides), I am much higher on recall and somewhat lower on precision.
+
+One of the great perks of longevity is that doing things better than all others can alone get you 10-15 years of extra life relative to others, which means that spending 6 months obsessed with this can lead to insane returns. The future 100 years from now may be exciting like *nothing else*, so if you are able to delay some types of gratifiction, you may have a chance of seeing the literal transhumanist utopia that transcends all your prior values. 
+
+I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-long-as-possible/answer/Alex-K-Chen . 
+
+Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
+
+Wear N95/N99 masks when on the subways or highways. Thomas Talheim has a blog showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels.
+
+Taking rapamycin + metformin + acarbose may also get you in CR-ish similar states, though there are some effects of CR (eg reduced acetyl-CoA levels or reduced ETC flux) that this combination may not simulate. 
+
+Get regular tracking of all metabolites (the more comprehensive the metabolite panel, the better - try to get metabolon or SomaLogic panels if you can, or whatever is used by the Wyss-Corey lab). I found out I was plasmalogen-deficient by getting OpenCures, and NAD+ deficient by getting a jinfiniti NAD+ test. 
+
+Get DEXA scans (dexafit) to track muscle density and bone density over time. 
+
+Get a brain MRI every few years or so (to measure changes in brain volume). 7T over 3T if you can, but any resolution helps. 
+
+Modafinil and caffeine are both antioxidant stimulants that suppress appetite. Methylphenidate and Adderall also suppress appetite and increae energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
+
+Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. 
+
+HIIT, read Peter Attia, read Ben Greenfield fitness. 
+
+Get an adjustable curved desk if you can, and hold monitor at eye level. Try rolfing to get your posture aligned (make sure monitor is always at eye level to minimize tension).
+
+Going for constant novelty may increase neuroplasticity. 
+
+Think about future trends and adjust yourself to them (we will be more digital/integrated than before)/
+
+I have a guide for avoiding microplastics (see microplastics.md)
+
+Do what you can to directly support/fund biotechnology research (especially the type of "tools development" that will make all biotechnology research faster, more open, less labor-intense, and automatable). Many papers writtenin the past may be re-written in a high-throughput (do ALL the seq's) type of research. 
+
+====
+
+SOCIAL FACTORS:
+
+Spending time with those who are visibly obsessed with longevity will help! I am far more on the diet than exercise side (as Matt Kaeberlein knows, diet is the only way to increase the *cap* on lifespan, not just healthspan), but the exercise side (esp HIIT side) will help too. 
+
+Having diverse friend groups (esp across age) will help insulate you against shocks to the friendgroup. 
+
+It's unclear what the effects of stress (as experienced in western populations) are on longevity (some stress, esp when intermitently placed, may be better than no stress). Having a strong sense of self-direction (and not being trapped) is what psychologically helps the most. Most of your same-age friends may die earlier than you, so it is also important to get close to people across generations (especially by mentoring younger super-receptive people). A cool perk of longevity is that people who really *get it* will never drift, because longevity is always on the back of everyone's minds.
+
+Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled. )
