@@ -9,7 +9,9 @@ I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-
 
 One of the great perks of longevity is that doing things better than all others can alone get you 10-15 years of extra life relative to others, which means that spending 6 months obsessed with this can lead to insane returns. The future 100 years from now may be exciting like *nothing else*, so if you are able to delay some types of gratifiction, you may have a chance of seeing the literal transhumanist utopia that transcends all your prior values. 
 
-Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycation agents, glycine (esp as a precursor to glutathionine), N-acetyl-cysteine, turmuric/curcumin, metformin/rapamycin/acarbose, folic acid/B12 (folic acid and manganese levels seem to be most correlated with longevity), Vitamin D, caffeine/modafinil, 17alpha-estradiol (if male), deuterated heavy water [small amounts], deuterated PUFAs (experimental). 
+Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycation agents, glycine (esp as a precursor to glutathionine), N-acetyl-cysteine, turmuric/curcumin, metformin/rapamycin/acarbose, folic acid/B12 (folic acid and manganese levels seem to be most correlated with longevity), Vitamin D, caffeine/modafinil, selegiline, lithium (ESP impt for preserving the brain), 17alpha-estradiol (if male), deuterated heavy water [small amounts], deuterated PUFAs (experimental). 
+
+If you don't have space for taking too many - I would make space for for rapamycin, lithium, and caffeine/modafinil.
 
 Check ITP and Longevity Research Institute for indications of what most reliably works. 
 
