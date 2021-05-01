@@ -23,9 +23,11 @@ Get a brain MRI every few years or so (to measure changes in brain volume). 7T o
 
 Modafinil and caffeine are both antioxidant stimulants that suppress appetite. Methylphenidate and Adderall also suppress appetite and increae energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
+Mushrooms (esp ergothionine) have insane amounts of nutrients to calorie ratio. Generally I go for foods that maximize nutrients to calorie ratio. 
+
 Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. 
 
-HIIT, read Peter Attia, read Ben Greenfield fitness. 
+HIIT, read Peter Attia, read Ben Greenfield fitness, read SOME Dave Asprey (but don't do everthing he does). They are not right on all accounts, and not aging-focused as I am, but still have more volume than most who write guides to *not* aging. 
 
 Get an adjustable curved desk if you can, and hold monitor at eye level. Try rolfing to get your posture aligned (make sure monitor is always at eye level to minimize tension).
 
@@ -35,7 +37,9 @@ Think about future trends and adjust yourself to them (we will be more digital/i
 
 I have a guide for avoiding microplastics (see microplastics.md)
 
-Do what you can to directly support/fund biotechnology research (especially the type of "tools development" that will make all biotechnology research faster, more open, less labor-intense, and automatable). Many papers writtenin the past may be re-written in a high-throughput (do ALL the seq's) type of research. 
+Do what you can to directly support/fund biotechnology research (especially the type of "tools development" that will make all biotechnology research faster, more open, less labor-intense, and automatable). Many papers written in the past may be re-written in a high-throughput (do ALL the seq's) type of research. 
+
+OTHER longevity guides: Michael Rae, crsociety.org, livingthecrway.com have many guides.
 
 ====
 
@@ -48,3 +52,5 @@ Having diverse friend groups (esp across age) will help insulate you against sho
 It's unclear what the effects of stress (as experienced in western populations) are on longevity (some stress, esp when intermitently placed, may be better than no stress). Having a strong sense of self-direction (and not being trapped) is what psychologically helps the most. Most of your same-age friends may die earlier than you, so it is also important to get close to people across generations (especially by mentoring younger super-receptive people). A cool perk of longevity is that people who really *get it* will never drift, because longevity is always on the back of everyone's minds.
 
 Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled. )
+
+Trying to form an aging cult/a group of people who are as similarly obsessed with aging as I am - would do *a lot*. AFAIK, even among aging aficionados, I don't think anyone in the world is as obsessed with this as I am...
