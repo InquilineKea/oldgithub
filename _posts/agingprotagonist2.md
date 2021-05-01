@@ -31,7 +31,10 @@ Outline of major people who *care* about aging but are not in the field
 - Balaji
 - Christine Peterson (of foresight institute), who *really* cares (knows it's the most important problem to the pt of constantly mentioning it on Facebook as *the* most important thing
 - Karl Pfleger (very smart - often asks great questions at foresight). Maintains an aging doc. Used to be more involved (used to throw longevity-associated parties)
-- Andres Sandberg (best generalist ever, has arranged to be cryonically preserved)
+- Andres Sandberg (one of the best generalists ever, has arranged to be cryonically preserved)
+- Peter Attia (biochemistry newsletter is *amazing* and will teach you biology like nothing else)
+
+
 
 Aging and calorie restriction communities:
 
