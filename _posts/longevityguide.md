@@ -20,11 +20,9 @@ Generally, diet >> exercise. Reducing calorie consumption (and esp protein consu
 
 Repeated exposure to bitter-containing vegetables may acclimatize yourself to vegetables enough such that they taste amazing even when raw (at this point I am even fully capable of eating cabbage raw, if needed). Particularly important vegetables are ones containing allicins (onions, garlic) - sulfur is a HUGE antioxidant, cruciferous vegetables (fewest downsides of any), asparagus, kale (easily contaminated with pesticides). Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios.
 
-If you're male, try for 17-alpha-estradiol. A small amount of deuterated heavy water is hormetic. 
-
 see EWG group for vegetables contaminated by organophosphate pesticides.
 
-Wear N95/N99 masks when on the subways or highways. Thomas Talheim has a blog showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels. Do not live within 300 years of a major arterial roadway (esp one populated by trucks or diesel-emitting vehicles). The best air quality is found in US/Canada/ocean-touching areas of Europe. 
+Wear N95/N99 masks when on the subways or near major roadways. Thomas Talheim has a blog (smartairfilters.com) showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels. Do not live within 300 years of a major arterial roadway (esp one populated by trucks or diesel-emitting vehicles). The best air quality is found in US/Canada/ocean-touching areas of Europe. 
 
 Taking rapamycin + metformin + acarbose may also get you in CR-ish similar states, though there are some effects of CR (eg reduced acetyl-CoA levels or reduced ETC flux) that this combination may not simulate. 
 
