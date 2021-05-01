@@ -21,7 +21,7 @@ Generally, diet >> exercise. Reducing calorie consumption (and esp protein consu
 Get a Levels to test changes in blood glucose.
 
 Repeated exposure to bitter-containing vegetables may acclimatize yourself to vegetables enough such that they taste amazing even when raw (at this point I am even fully capable of eating cabbage raw, if needed). Particularly important vegetables are ones containing allicins (onions, garlic) - sulfur is a HUGE antioxidant, cruciferous vegetables (fewest downsides of any), asparagus, kale (easily contaminated with pesticides). Mushrooms have ergothionine (which reduces brain aging!). 
-Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios. 
+Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios.  Salsa is a great low-calorie seasoning to add to vegetables.
 
 Shirataki noodles are intensely filling for so few calories, but they all seem packaged in very plastic-y containers (do what you can to make them not packaged in horrible plastics)
 
