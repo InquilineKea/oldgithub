@@ -15,7 +15,6 @@ If you don't have space for taking too many - I would make space for for rapamyc
 
 Check ITP and Longevity Research Institute for indications of what most reliably works. 
 
-
 Some smart people I know (eg Alex Pustov) suggest methylene blue. 
 
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
@@ -47,17 +46,21 @@ Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get Q
 
 Modafinil and caffeine are both antioxidant stimulants that suppress appetite (caffeine has SO many weirdly positive effects on longevity). Methylphenidate and Adderall also suppress appetite and increase energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
-Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. 
+When eating out at restaurants, ask what cooking oil they use (oftentimes, it's soybean/vegetable oil, which is omega-6 heavy - the worst possible cooking oil you can use). Canola oil is primarily MUFAs and is not as "bad" as "natural foods" people think it is (even Michael Rae thinks it's okay). Best oils are MUFAs. Ideally you should avoid high heat/frying/roasting if possible (go for steaming/boiling/instant pots), but a little bit of saute/low heat oil may not be that bad, esp if it is the only way to otherwise get you eating vegetables. 
+
+Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. [sleep trackers may be able to integrate with audio entrainment technology to possibly increase deep sleep in the far future]
 
 Get your epigenetic age measured (see morgan levine's interview with foresight institute)
 
+Friend/follow Doris Loh, Denis Odinokov, Matthew Lake on Facebook - follow the calorie restriction facebook group
+
 HIIT, read Peter Attia, read Ben Greenfield fitness, read SOME Dave Asprey (but don't do everthing he does). They are not right on all accounts, and not aging-focused as I am, but still have more volume than most who write guides to *not* aging. 
 
-Get an adjustable curved desk if you can, and hold monitor at eye level. Try rolfing to get your posture aligned. Also make sure monitor is always at eye level to minimize tension.
+Get an adjustable curved desk if you can, and hold monitor at eye level (standing desks burn more calories and adjustable desks make you less "static"). Try rolfing to get your posture aligned. Also make sure monitor is always at eye level to minimize tension.
 
 Being consistently neophilic throughout life may increase neuroplasticity. There are not many consistently novelty-seeking/super-open adults, but Joon Yun is one of them. Psychedelic communities seem to have more of them than most, as do university towns. 
 
-Staying friends with people in investing/crypto related communities can be a way to massively increase your wealth without trying (but this is risky). I know many people who have gotten rich off of crypto alone - enough to never have to work a stressful job ever again. In that case, you can optimize for online output *and* helping train/mentor a new generation of people who can be more convinced (a la fable of the dragon tyrant) that this IS the most important problem and they should consider working in it as much as they would work hard in school (as Laura Deming knows, school is a giant waste - her not being schooled is the reason why she is so independent)
+Staying friends with people in investing/crypto related communities can be a way to massively increase your wealth without trying (but this is risky and depends on knowing the right people). I know many people who have gotten rich off of crypto alone - enough to never have to work a stressful job ever again. In that case, you can optimize for online output *and* helping train/mentor a new generation of people who can be more convinced (a la fable of the dragon tyrant) that this IS the most important problem and they should consider working in it as much as they would work hard in school (as Laura Deming knows, school is a giant waste - her not being schooled is the reason why she is so independent)
 
 Think about future trends and try to integrate yourself into them (eg try to think of a world where human-machine symbiosis is more robust than ever)
 
