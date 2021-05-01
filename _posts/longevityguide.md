@@ -25,7 +25,7 @@ see EWG group for vegetables contaminated by organophosphate pesticides.
 
 Wear N95/N99 masks when on the subways or near major roadways. Thomas Talheim has a blog (smartairfilters.com) showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels. Do not live within 300 years of a major arterial roadway (esp one populated by trucks or diesel-emitting vehicles). The best air quality is found in US/Canada/ocean-touching areas of Europe. 
 
-Taking rapamycin + metformin + acarbose may also get you in CR-ish similar states, though there are some effects of CR (eg reduced acetyl-CoA levels or reduced ETC flux) that this combination may not simulate. 
+Taking rapamycin + metformin + acarbose may also get you in CR-ish similar states, though there are some effects of CR (eg reduced acetyl-CoA levels or reduced ETC flux) that this combination may not simulate. Most of the smartest aging scientists i know are more bullish on rapamycin than metformin, though they synergize when taken together.
 
 Get regular tracking of all metabolites (the more comprehensive the metabolite panel, the better - try to get metabolon or SomaLogic panels if you can, or whatever is used by the Wyss-Corey lab). I found out I was plasmalogen-deficient by getting OpenCures, and NAD+ deficient by getting a jinfiniti NAD+ test. 
 
@@ -35,7 +35,7 @@ Get a brain MRI every few years or so (to measure changes in brain volume). 7T o
 
 Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get QEEG to see areas of your brain where you can see more work on. Meditation can help calm a brain down and make brain cells fire less - it can also decrease gray matter loss with age. 
 
-Modafinil and caffeine are both antioxidant stimulants that suppress appetite (caffeine has SO many weirdly positive effects on longevity). Methylphenidate and Adderall also suppress appetite and increae energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
+Modafinil and caffeine are both antioxidant stimulants that suppress appetite (caffeine has SO many weirdly positive effects on longevity). Methylphenidate and Adderall also suppress appetite and increase energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
 Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. 
 
