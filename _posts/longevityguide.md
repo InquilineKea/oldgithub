@@ -49,11 +49,11 @@ HIIT, read Peter Attia, read Ben Greenfield fitness, read SOME Dave Asprey (but 
 
 Get an adjustable curved desk if you can, and hold monitor at eye level. Try rolfing to get your posture aligned (make sure monitor is always at eye level to minimize tension).
 
-Being consistently neophilic throughout life may increase neuroplasticity. There are not many consistently novelty-seeking/super-open adults, but Joon Yun is one of them. Psychedelic communities seem to have more of them than most people, as do university towns. 
+Being consistently neophilic throughout life may increase neuroplasticity. There are not many consistently novelty-seeking/super-open adults, but Joon Yun is one of them. Psychedelic communities seem to have more of them than most, as do university towns. 
 
 Staying friends with people in investing/crypto related communities can be a way to massively increase your wealth without trying (but this is risky). I know many people who have gotten rich off of crypto alone - enough to never have to work a stressful job ever again. In that case, you can optimize for online output *and* helping train/mentor a new generation of people who can be more convinced (a la fable of the dragon tyrant) that this IS the most important problem and they should consider working in it as much as they would work hard in school (as Laura Deming knows, school is a giant waste - her not being schooled is the reason why she is so independent)
 
-Think about future trends and try to integrate yourself into them  (eg try to think of a world where human-machine symbiosis is more robust than ever)
+Think about future trends and try to integrate yourself into them (eg try to think of a world where human-machine symbiosis is more robust than ever)
 
 I have a guide for avoiding microplastics (see microplastics.md)
 
