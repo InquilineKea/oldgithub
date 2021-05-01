@@ -32,6 +32,8 @@ Shirataki noodles are intensely filling for so few calories, but they all seem p
 
 see EWG group for fruits/vegetables contaminated by organophosphate pesticides. Most fruits are more heavily contaminated by pesticides than vegetables. Apples/grapes/strawberries and kale/spinach/bell peppers seem to have uniquely high levels of multiple residue contamination.
 
+Tomatoes and cucumbers are a great vegetable base for filling you up because they are super-easy-to-eat and low-bitterness.
+
 Wear N95/N99 masks when on the subways or near major roadways. Thomas Talheim has a blog (smartairfilters.com) showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels. Do not live within 300 years of a major arterial roadway (esp one populated by trucks or diesel-emitting vehicles). The best air quality is found in US/Canada/ocean-touching areas of Europe. 
 
 Taking rapamycin + metformin + acarbose may also get you in CR-ish similar states, though there are some effects of CR (eg reduced acetyl-CoA levels or reduced ETC flux) that this combination may not simulate. Most of the smartest aging scientists i know are more bullish on rapamycin than metformin, though they synergize when taken together.
@@ -49,6 +51,8 @@ Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get Q
 Modafinil and caffeine are both antioxidant stimulants that suppress appetite (caffeine has SO many weirdly positive effects on longevity). Methylphenidate and Adderall also suppress appetite and increase energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
 When eating out at restaurants, ask what cooking oil they use (oftentimes, it's soybean/vegetable oil, which is omega-6 heavy - the worst possible cooking oil you can use). Canola oil is primarily MUFAs and is not as "bad" as "natural foods" people think it is (even Michael Rae thinks it's okay). Best oils are MUFAs. Ideally you should avoid high heat/frying/roasting if possible (go for steaming/boiling/instant pots), but a little bit of saute/low heat oil may not be that bad, esp if it is the only way to otherwise get you eating vegetables. Cold-pressed olive oil is preferrable to more heated methods of processing them.
+
+Vegetables may be safer to fry/roast than most other foodstuffs - they are low in protein so they tend to form less acrylamide (from asparagine) and carboxylmethyllysine (from lysine) and heterocyclic amines
 
 Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. [sleep trackers may be able to integrate with audio entrainment technology to possibly increase deep sleep in the far future]
 

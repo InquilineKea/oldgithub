@@ -16,6 +16,8 @@ Some SF grocery bags are "decomposable/biodegradable" but it is unknown if the p
 
 Some 80-20 tips on reducing microplastic exposure: *Especially* STAY AWAY FROM bottled water (https://interestingengineering.com/bottled-water-drinkers-could-consume-up-to-640000-microplastics-a-year), get an air purifier, wear N95/N99 masks when possible, wear cotton/lint clothing (plastics from clothing can outgas), avoid eating marine creatures like mussels and fish (even sea salt and seaweed have microplastic contamination, though at lower levels than higher up in the food chain), wash food that has been inside plastic containers, *especially* stay away from styrofoam (of all microplastics, polystyrene uniquely imposes the most damage), use aggressive water filters (eg reverse osmosis water filters if possible), only use coffee makers where hot water does not come in contact with plastic. Stay away from food packaged in plastic containers for long periods of time (esp when surrounded by water) - the amount of microplastics that leech into this food can only monotonically increase over time.
 
+Avoid sea salt (or salt in general) if you can - it seems especially prone to microplastic contamination. 
+
 Sturdier plastics leach less than "flexible" plastics (this is why plastic water bottles are so uniquely bad)
 
 Canned food is complicated - even bisphenol-A-free containers may have resin that has been contaminated by BPS or polyvinyl. 
