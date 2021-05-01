@@ -3,7 +3,7 @@ layout: post
 title:  on how the aging protagonist will become rational and stop constantly playing roulette
 ---
 
-
+the estimated value of someone's time is higher if they play a major role in prolonging everyone else's time (whether through prodding them to eat better or playing a role in anti-aging biotech)
 
 Have you seen Fable of the Dragon Tyrant? The video convincingly shows that at some critical point in the village's self-awareness, society will invest all its resources in trying to slay the dragon faster. 
 
