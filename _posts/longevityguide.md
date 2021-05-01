@@ -5,11 +5,16 @@ title: longevity guide - how to live longer
 
 Many many many people before me have written longevity guides (eg the nintil longevity guide). There is still a chance that what I write might be higher-impact than what others have written before me. The reasons being (a) I seem to be more obsessed with this than most people are so this guide may be more of a persistent thing you want to keep looking up than all the other longevity guides. In terms of my precision-recall balance (compared to legit longevity guides), I am much higher on recall and somewhat lower on precision (more willing to consider experimental approaches than Jose Ricon).
 
-I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-long-as-possible/answer/Alex-K-Chen . 
+I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-long-as-possible/answer/Alex-K-Chen . Other guides have been written by Mike Lustgarten (great for measuring relevant biomarkers) and Alex Pustov. 
 
 One of the great perks of longevity is that doing things better than all others can alone get you 10-15 years of extra life relative to others, which means that spending 6 months obsessed with this can lead to insane returns. The future 100 years from now may be exciting like *nothing else*, so if you are able to delay some types of gratifiction, you may have a chance of seeing the literal transhumanist utopia that transcends all your prior values. 
 
-Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycation agents, glycine (esp as a precursor to glutathionine), N-acetyl-cysteine, turmuric/curcumin, metformin/rapamycin/acarbose, folic acid/B12 (folic acid and manganese levels seem to be most correlated with longevity), Vitamin D, caffeine/modafinil. Check ITP and Longevity Research Institute for indications of what most reliably works. Some smart people I know (eg Alex Pustov) suggest methylene blue. 
+Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycation agents, glycine (esp as a precursor to glutathionine), N-acetyl-cysteine, turmuric/curcumin, metformin/rapamycin/acarbose, folic acid/B12 (folic acid and manganese levels seem to be most correlated with longevity), Vitamin D, caffeine/modafinil, 17alpha-estradiol (if male), deuterated heavy water [small amounts], deuterated PUFAs (experimental). 
+
+Check ITP and Longevity Research Institute for indications of what most reliably works. 
+
+
+Some smart people I know (eg Alex Pustov) suggest methylene blue. 
 
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
 
