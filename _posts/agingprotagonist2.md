@@ -47,4 +47,4 @@ Sheekay Science Show (gets SO many of the facts correct [though not as aggessive
 
 Other lifehack communities 
 Dave Asprey (and his books). Willing to try radical things that others aren't (we need more experimenters)
-More biohackers
+More biohackers (like zayner who manages ODIN)
