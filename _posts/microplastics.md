@@ -22,6 +22,8 @@ Canned food is complicated - even bisphenol-A-free containers may have resin tha
 
 PFAS might not be a microplastic, but have detrimental effects and you should stay away from them by not using oral-glide-B floss. They may also be found in water pollution so look up water pollution tables of your state.
 
+Furniture and carpets are a major source (so hard to avoid). Wood floors are better, also run air purifiers near overly fibrous furniture
+
 
 Some brands of almond milk may be coated in thermopak made of polyethylene based microplastics) - try to pick almond milk that isn't packaged in thermopaks (whole foods almond milk isn't, for instance)
 

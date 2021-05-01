@@ -48,9 +48,11 @@ Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get Q
 
 Modafinil and caffeine are both antioxidant stimulants that suppress appetite (caffeine has SO many weirdly positive effects on longevity). Methylphenidate and Adderall also suppress appetite and increase energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
-When eating out at restaurants, ask what cooking oil they use (oftentimes, it's soybean/vegetable oil, which is omega-6 heavy - the worst possible cooking oil you can use). Canola oil is primarily MUFAs and is not as "bad" as "natural foods" people think it is (even Michael Rae thinks it's okay). Best oils are MUFAs. Ideally you should avoid high heat/frying/roasting if possible (go for steaming/boiling/instant pots), but a little bit of saute/low heat oil may not be that bad, esp if it is the only way to otherwise get you eating vegetables. 
+When eating out at restaurants, ask what cooking oil they use (oftentimes, it's soybean/vegetable oil, which is omega-6 heavy - the worst possible cooking oil you can use). Canola oil is primarily MUFAs and is not as "bad" as "natural foods" people think it is (even Michael Rae thinks it's okay). Best oils are MUFAs. Ideally you should avoid high heat/frying/roasting if possible (go for steaming/boiling/instant pots), but a little bit of saute/low heat oil may not be that bad, esp if it is the only way to otherwise get you eating vegetables. Cold-pressed olive oil is preferrable to more heated methods of processing them.
 
 Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. [sleep trackers may be able to integrate with audio entrainment technology to possibly increase deep sleep in the far future]
+
+Avoid iron (preston estep's mindspan shows). Donate blood if you're male. 
 
 Try a vibrator machine to increase bone density.
 
