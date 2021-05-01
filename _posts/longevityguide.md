@@ -11,7 +11,7 @@ I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-
 
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
 
-Wear N95/N99 masks when on the subways or highways. Thomas Talheim has a blog showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels.
+Wear N95/N99 masks when on the subways or highways. Thomas Talheim has a blog showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels. Do not live within 300 years of a major arterial roadway (esp one populated by trucks or diesel-emitting vehicles). The best air quality is found in US/Canada/ocean-touching areas of Europe. 
 
 Taking rapamycin + metformin + acarbose may also get you in CR-ish similar states, though there are some effects of CR (eg reduced acetyl-CoA levels or reduced ETC flux) that this combination may not simulate. 
 
@@ -21,11 +21,15 @@ Get DEXA scans (dexafit) to track muscle density and bone density over time.
 
 Get a brain MRI every few years or so (to measure changes in brain volume). 7T over 3T if you can, but any resolution helps. 
 
+Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get QEEG to see areas of your brain where you can see more work on. 
+
 Modafinil and caffeine are both antioxidant stimulants that suppress appetite. Methylphenidate and Adderall also suppress appetite and increae energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
 Mushrooms (esp ergothionine) have insane amounts of nutrients to calorie ratio. Generally I go for foods that maximize nutrients to calorie ratio. 
 
 Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. 
+
+Get your epigenetic age measured (see morgan levine's interview with foresight institute)
 
 HIIT, read Peter Attia, read Ben Greenfield fitness, read SOME Dave Asprey (but don't do everthing he does). They are not right on all accounts, and not aging-focused as I am, but still have more volume than most who write guides to *not* aging. 
 
@@ -54,3 +58,5 @@ It's unclear what the effects of stress (as experienced in western populations) 
 Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled. )
 
 Trying to form an aging cult/a group of people who are as similarly obsessed with aging as I am - would do *a lot*. AFAIK, even among aging aficionados, I don't think anyone in the world is as obsessed with this as I am...
+
+Peoplein some cities live longer than others (in the US - Vail/Aspen/Breckenridge/Frisco have unusually high lifespans.)
