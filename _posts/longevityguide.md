@@ -17,6 +17,8 @@ Some smart people I know (eg Alex Pustov) suggest methylene blue.
 
 Check ITP and Longevity Research Institute for indications of what most reliably works. 
 
+Get an air purifier at home (bluair is most effective)
+
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - monounsaturated fatty acids or short-chain fatty acids (unroasted nuts, olives, avocados) are the healthiest source of primary energy on top of a diet primarily composed of fruits and vegetables. One doctor suggests a protein heavy diet + rapamycin (this demands an experiment) - protein stimulates mTOR which can be blocked by rapamycin, though protein is also subject to decomposition via nitrogeneous waste products that *might* not be great.
 
 The easiest way to get people who value their time to exercise: run rather than walk from point A to point B. Do anything you can to maximize energy levels/reduce irritability levels (exercise is so much easier when you don't feel tired all the time)
