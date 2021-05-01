@@ -13,7 +13,7 @@ OUTLINE of players in aging who are worth paying far more attention to than aver
 - Laura Deming - many describe her as "complicated". She seems to have somehow adopted the role of chief protagonist by those who are not pseuds (/r/longevity doesn't discuss her as much as it discusses Aubrey). Unschooled, super-high S/N ratio, seems sphinx-ish, input streams most uncorrelated with input streams of all others. 
 - Joanne Peng (some have described her as a "second laura" - very close and heavily trained by laura)
 - Genesis Lung (works at BEAM for biotechnology, *really* cares about the issue, though at odd ways orthogonal to how I care)
-- Other VCS (eg the Apollo Ventures guy like James Peyer)
+- Other VCs (eg the Apollo Ventures guy like James Peyer)
 - Jean Hebert (brain regeneration guy mentioned by foresight)
 - David Sinclair (is a hype machine. His research lab at Harvard attracts many good people. Some fault him for being overly hyperbolic and rushing diagrams). Jokes about being 'willing to try anything' but there are others more experimental
 - George Church (believes the problem is solveable in HIS lifetime. "is like a child". Is a distributed computation who does basic biotechnology work that will be important in making the feedback loops more tight)
@@ -40,6 +40,7 @@ crsociety.org
 livingthecrway.com 
 longecity.org
 Mike Lustgarten
+Sheekay Science Show (gets SO many of the facts correct [though not as aggessive as, say, fightaging])
 
 
 (crsociety people are great to talk to and REALLY know their nutrition well - esp Michael Rae). But I notice that they don't seem to have evolved much over the last 10 years. 
