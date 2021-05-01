@@ -3,7 +3,7 @@ layout: post
 title: longevity guide - how to live longer
 ---
 
-Many many many people before me have written longevity guides (eg the nintil longevity guide). There is still a chance that what I write might be higher-impact than what others have written before me. The reasons being (a) I seem to be more obsessed with this than most people are so this guide may be more of a persistent thing you want to keep looking up than all the other longevity guides. In terms of my precision-recall balance (compared to legit longevity guides), I am much higher on recall and somewhat lower on precision (more willing to consider experimental approaches than Jose Ricon).
+Many many many people before me have written longevity guides (eg the nintil longevity guide). There is still a chance that what I write might be higher-impact than what others have written before me. The reasons being (a) I seem to be more obsessed with this than most people are so this guide may be more of a persistent thing you want to keep looking up than all the other longevity guides, (b) I'm more willing to try *anything* than most people are, which allows for potential areas of expansion that others are unaware of. In terms of my precision-recall balance (compared to legit longevity guides), I am much higher on recall and somewhat lower on precision (more willing to consider experimental approaches than Jose Ricon).
 
 I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-long-as-possible/answer/Alex-K-Chen . Other guides have been written by Mike Lustgarten (great for measuring relevant biomarkers) and Alex Pustov. 
 
@@ -17,6 +17,10 @@ Check ITP and Longevity Research Institute for indications of what most reliably
 Some smart people I know (eg Alex Pustov) suggest methylene blue. 
 
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
+
+The easiest way for time-valuing people to exercise: run rather than walk from point A to point B. Do anything you can to maximize energy levels/reduce irritability levels (exercis is so much easier when you don't feel tired all the time)
+
+Get an overnight sleep study - sleep apnea is surprisingly common and can lead to increases in beta-amyloid plaque long-term. 
 
 Get a Levels to test changes in blood glucose.
 
