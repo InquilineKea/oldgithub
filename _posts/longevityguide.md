@@ -13,24 +13,25 @@ Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycat
 
 If you don't have space for taking too many - I would make space for for rapamycin, lithium, and caffeine/modafinil.
 
-Check ITP and Longevity Research Institute for indications of what most reliably works. 
-
 Some smart people I know (eg Alex Pustov) suggest methylene blue. 
+
+
+Check ITP and Longevity Research Institute for indications of what most reliably works. 
 
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
 
-The easiest way for time-valuing people to exercise: run rather than walk from point A to point B. Do anything you can to maximize energy levels/reduce irritability levels (exercis is so much easier when you don't feel tired all the time)
+The easiest way to get people who value their time to exercise: run rather than walk from point A to point B. Do anything you can to maximize energy levels/reduce irritability levels (exercise is so much easier when you don't feel tired all the time)
 
-Get an overnight sleep study - sleep apnea is surprisingly common and can lead to increases in beta-amyloid plaque long-term. 
+Get an overnight sleep study - sleep apnea is surprisingly common and can lead to long-term increases in beta amyloid plaque accumulation.
 
-Get a Levels to test changes in blood glucose.
+Get a Levels CGM to test changes in blood glucose.
 
 Repeated exposure to bitter-containing vegetables may acclimatize yourself to vegetables enough such that they taste amazing even when raw (at this point I am even fully capable of eating cabbage raw, if needed). Particularly important vegetables are ones containing allicins (onions, garlic) - sulfur is a HUGE antioxidant, cruciferous vegetables (fewest downsides of any), asparagus, kale (easily contaminated with pesticides). Mushrooms have ergothionine (which reduces brain aging!). 
 Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios.  Salsa is a great low-calorie seasoning to add to vegetables.
 
 Shirataki noodles are intensely filling for so few calories, but they all seem packaged in very plastic-y containers (do what you can to make them not packaged in horrible plastics)
 
-see EWG group for vegetables contaminated by organophosphate pesticides.
+see EWG group for fruits/vegetables contaminated by organophosphate pesticides. Most fruits are more heavily contaminated by pesticides than vegetables. Apples/grapes/strawberries and kale/spinach/bell peppers seem to have uniquely high levels of multiple residue contamination.
 
 Wear N95/N99 masks when on the subways or near major roadways. Thomas Talheim has a blog (smartairfilters.com) showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels. Do not live within 300 years of a major arterial roadway (esp one populated by trucks or diesel-emitting vehicles). The best air quality is found in US/Canada/ocean-touching areas of Europe. 
 
@@ -49,6 +50,8 @@ Modafinil and caffeine are both antioxidant stimulants that suppress appetite (c
 When eating out at restaurants, ask what cooking oil they use (oftentimes, it's soybean/vegetable oil, which is omega-6 heavy - the worst possible cooking oil you can use). Canola oil is primarily MUFAs and is not as "bad" as "natural foods" people think it is (even Michael Rae thinks it's okay). Best oils are MUFAs. Ideally you should avoid high heat/frying/roasting if possible (go for steaming/boiling/instant pots), but a little bit of saute/low heat oil may not be that bad, esp if it is the only way to otherwise get you eating vegetables. 
 
 Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. [sleep trackers may be able to integrate with audio entrainment technology to possibly increase deep sleep in the far future]
+
+Try a vibrator machine to increase bone density.
 
 Get your epigenetic age measured (see morgan levine's interview with foresight institute)
 
@@ -87,7 +90,7 @@ Having diverse friend groups (esp across age) will help insulate you against sho
 
 It's unclear what the effects of stress (as experienced in western populations) are on longevity (some stress, esp when intermitently placed, may be better than no stress). Having a strong sense of self-direction (and not being trapped) is what psychologically helps the most. Most of your same-age friends may die earlier than you, so it is also important to get close to people across generations (especially by mentoring younger super-receptive people). A cool perk of longevity is that people who really *get it* will never drift, because longevity is always on the back of everyone's minds.
 
-Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled). https://www.briantimar.com/notes/mimetic/mimetic/?fbclid=IwAR1vNx0WqRLcloEErDinboZBp7Ux0G1T4_dv4KZSq0i1UrxAm1TcYw4fzhk is good for reducing stress (also see dan wang's college as girardian terror). You do not need to obsess over GPAs - no one cares, and leaving this system earlier rather than later is important. Many stupid social games people have played in the past will no longer matter as much in the future - know that the system was built by renters and vested interests. Read Nick Cammarata's Twitter - he has managed to do more than almost anyone in escaping these social traps (I sometmes say that the Thiel Fellowship was the most beautiful thing ever...).
+Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled). https://www.briantimar.com/notes/mimetic/mimetic/?fbclid=IwAR1vNx0WqRLcloEErDinboZBp7Ux0G1T4_dv4KZSq0i1UrxAm1TcYw4fzhk is good for reducing stress (also see dan wang's college as girardian terror). You do not need to obsess over GPAs - no one cares, and leaving this system earlier rather than later is important. Many stupid social games people have played in the past will no longer matter as much in the future - know that the system was built by renters and vested interests. Read Nick Cammarata's Twitter - he has managed to do more than almost anyone in escaping these unnecessarily stressful social traps (I sometmes say that the Thiel Fellowship was the most beautiful thing ever...).
 
 Try to form an aging cult/a group of people who are as similarly obsessed with aging as I am - it would do *a lot*. AFAIK, even among aging aficionados, I don't think anyone in the world is as obsessed with this as I am...
 
