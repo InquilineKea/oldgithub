@@ -29,7 +29,7 @@ Get DEXA scans (dexafit) to track muscle density and bone density over time.
 
 Get a brain MRI every few years or so (to measure changes in brain volume). 7T over 3T if you can, but any resolution helps. 
 
-Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get QEEG to see areas of your brain where you can see more work on. 
+Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get QEEG to see areas of your brain where you can see more work on. Meditation can help calm a brain down and make brain cells fire less - it can also decrease gray matter loss with age. 
 
 Modafinil and caffeine are both antioxidant stimulants that suppress appetite. Methylphenidate and Adderall also suppress appetite and increae energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
