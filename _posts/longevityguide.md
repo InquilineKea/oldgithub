@@ -18,8 +18,12 @@ Some smart people I know (eg Alex Pustov) suggest methylene blue.
 
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
 
+Get a Levels to test changes in blood glucose.
+
 Repeated exposure to bitter-containing vegetables may acclimatize yourself to vegetables enough such that they taste amazing even when raw (at this point I am even fully capable of eating cabbage raw, if needed). Particularly important vegetables are ones containing allicins (onions, garlic) - sulfur is a HUGE antioxidant, cruciferous vegetables (fewest downsides of any), asparagus, kale (easily contaminated with pesticides). Mushrooms have ergothionine (which reduces brain aging!). 
 Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios. 
+
+Shirataki noodles are intensely filling for so few calories, but they all seem packaged in very plastic-y containers (do what you can to make them not packaged in horrible plastics)
 
 see EWG group for vegetables contaminated by organophosphate pesticides.
 
