@@ -3,13 +3,19 @@ layout: post
 title: longevity guide - how to live longer
 ---
 
-Many many many people before me have written longevity guides (eg the nintil longevity guide). There is still a chance that what I write might be higher-impact than what others have written before me. The reasons being (a) I seem to be more obsessed with this than most people are so this guide may be more of a persistent thing you want to keep looking up than all the other longevity guides. In terms of my precision-recall balance (compared to legit longevity guides), I am much higher on recall and somewhat lower on precision.
-
-One of the great perks of longevity is that doing things better than all others can alone get you 10-15 years of extra life relative to others, which means that spending 6 months obsessed with this can lead to insane returns. The future 100 years from now may be exciting like *nothing else*, so if you are able to delay some types of gratifiction, you may have a chance of seeing the literal transhumanist utopia that transcends all your prior values. 
+Many many many people before me have written longevity guides (eg the nintil longevity guide). There is still a chance that what I write might be higher-impact than what others have written before me. The reasons being (a) I seem to be more obsessed with this than most people are so this guide may be more of a persistent thing you want to keep looking up than all the other longevity guides. In terms of my precision-recall balance (compared to legit longevity guides), I am much higher on recall and somewhat lower on precision (more willing to consider experimental approaches than Jose Ricon).
 
 I've written a previous guide at https://www.quora.com/What-can-I-do-to-live-as-long-as-possible/answer/Alex-K-Chen . 
 
+One of the great perks of longevity is that doing things better than all others can alone get you 10-15 years of extra life relative to others, which means that spending 6 months obsessed with this can lead to insane returns. The future 100 years from now may be exciting like *nothing else*, so if you are able to delay some types of gratifiction, you may have a chance of seeing the literal transhumanist utopia that transcends all your prior values. 
+
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
+
+Repeated exposure to bitter-containing vegetables may acclimatize yourself to vegetables enough such that they taste amazing even when raw (at this point I am even fully capable of eating cabbage raw, if needed). Particularly important vegetables are ones containing allicins (onions, garlic), cruciferous vegetables (fewest downsides of any), asparagus, kale (easily contaminated with pesticides). Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios.
+
+If you're male, try for 17-alpha-estradiol. A small amount of deuterated heavy water is hormetic. 
+
+see EWG group for vegetables contaminated by organophosphate pesticides.
 
 Wear N95/N99 masks when on the subways or highways. Thomas Talheim has a blog showing that even low-levels of PM1/PM2.5 found in American cities (even NYC/Chicago) are enough to increase inflammation/irritability levels. Do not live within 300 years of a major arterial roadway (esp one populated by trucks or diesel-emitting vehicles). The best air quality is found in US/Canada/ocean-touching areas of Europe. 
 
@@ -45,6 +51,10 @@ Do what you can to directly support/fund biotechnology research (especially the 
 
 OTHER longevity guides: Michael Rae, crsociety.org, livingthecrway.com have many guides.
 
+Make sure you stay relevant/important long-run (so consume long content, try to vlog some portions of your life so future people [the people who will be MOST important in developing the technology to solve the longevity thing] ]will be able to see the "young version of you")
+
+If you have kids, consider co-raising them in a commune (qiaochu/alterman/conor white-sullivan consider this). It may significantly reduce the amount of intergenerational trauma that is experienced. 
+
 ====
 
 SOCIAL FACTORS:
@@ -57,6 +67,6 @@ It's unclear what the effects of stress (as experienced in western populations) 
 
 Social stress is weird - you want to escape stupid signalling traps to be free as soon as possible (only Laura Deming stands out in doing this super-early as she was unschooled. )
 
-Trying to form an aging cult/a group of people who are as similarly obsessed with aging as I am - would do *a lot*. AFAIK, even among aging aficionados, I don't think anyone in the world is as obsessed with this as I am...
+Try to form an aging cult/a group of people who are as similarly obsessed with aging as I am - it would do *a lot*. AFAIK, even among aging aficionados, I don't think anyone in the world is as obsessed with this as I am...
 
 Peoplein some cities live longer than others (in the US - Vail/Aspen/Breckenridge/Frisco have unusually high lifespans.)
