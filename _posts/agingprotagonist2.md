@@ -3,11 +3,6 @@ layout: post
 title: major players in aging
 ---
 
-
-Influencing the future trajectories of those who are into aging research:
-
-Laura Deming suggested people not major in biology - but that they major in math/CS/physics instead.
-
 OUTLINE of players in aging who are worth paying far more attention to than average:
 
 - SENS Foundation (changed leadership under Jim O'Neill), seems to take SOME preference towards funding immediately applicable areas of aging
@@ -27,7 +22,7 @@ OUTLINE of players in aging who are worth paying far more attention to than aver
 - Adam Marblestone (really cares about not dying, smartest physicist+technologist+engineer I've ever come across, plus super-kind kindness)
 - Sarah Constantin (used to run the longevity research institute). Has very high epistemic significance
 - Nathan Cheng/Robert Ziman of longevitymarketcap. They seem to know that the ONLY reasonable path forward is to become obsessed with the area, and they do cover a lot of the recent investing in their newsletter which gets lots of reviews
-- Vadim Gladyshev (his papers are more worth reading than those of practically any other research scientist in the area). More likely to "get" things than other aging scientists.
+- Vadim Gladyshev (his papers are more worth reading than those of practically any other research scientist in the area - and will STAY worth reading for a long time). More likely to "get" things than other aging scientists.
 - other aging VCs (eg James Peyer of Apollo)
 
 Outline of major people who *care* about aging but are not in the field
