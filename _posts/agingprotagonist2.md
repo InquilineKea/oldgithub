@@ -8,12 +8,12 @@ Influencing the future trajectories of those who are into aging research:
 
 Laura Deming suggested people not major in biology - but that they major in math/CS/physics instead.
 
-OUTLINE of players in aging who are *more* worth paying attention to than average:
+OUTLINE of players in aging who are worth paying far more attention to than average:
 
 - SENS Foundation (changed leadership under Jim O'Neill), seems to take SOME preference towards funding immediately applicable areas of aging
 - JP de Magalhaes (the only aging/longevity scientist who publicly says he wants to live forever. Is more open than most scientists are. Has created very large web infrastructures with his research group and does bioinformatics research)
 - Aubrey de Grey (important for defining the original track, many mainstream scientists in aging dislike him for odd reasons. Often repeats himself. Still useful to talk to and maintains a lot of the infoflwo int eh community)
-- reason @ fightaging
+- reason @ fightaging (writes fightaging.org, which I've never seen get anything wrong [has great general epistemics]. More dedicated to this than most poeple)
 - Aging_Scientist on Twitter (the austrian person), Attila Csordas => generally smart people with high analytical skills who spend much of their time in the area
 - Laura Deming - many describe her as "complicated". She seems to have somehow adopted the role of chief protagonist by those who are not pseuds (/r/longevity doesn't discuss her as much as it discusses Aubrey). Unschooled, super-high S/N ratio, seems sphinx-ish, input streams most uncorrelated with input streams of all others. 
 - Joanne Peng (some have described her as a "second laura" - very close and heavily trained by laura)
@@ -22,7 +22,7 @@ OUTLINE of players in aging who are *more* worth paying attention to than averag
 - Jean Hebert (brain regeneration guy mentioned by foresight)
 - David Sinclair (is a hype machine. His research lab at Harvard attracts many good people. Some fault him for being overly hyperbolic)
 - the cryonics ppl (eg Ashwin Wolf).
-- Jose Luis Ricon (smart, unattached, kind of identifies as Aspie-ish). Doesn't care *that* much about aging, but sees it as an interesting intellectual problem
+- Jose Luis Ricon (smart, unattached, kind of identifies as Aspie-ish). Doesn't care *that* much about aging, but sees it as an interesting intellectual problem. Extremely smart, creating outlines with Adam Marblestone on how to fix the problem
 - Pete Estep
 - Sarah Constantin (used to run the longevity research institute). Has very high epistemic significance
 - Nathan Cheng/Robert Ziman of longevitymarketcap. They seem to know that the ONLY reasonable path forward is to become obsessed with the area, and they do cover a lot of the recent investing in their newsletter which gets lots of reviews
