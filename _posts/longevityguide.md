@@ -18,7 +18,8 @@ Some smart people I know (eg Alex Pustov) suggest methylene blue.
 
 Generally, diet >> exercise. Reducing calorie consumption (and esp protein consumption, AND restricting individual acids like methionine or BCAAs like leucine carry the strongest effects). You can also eat super-healthy (a diet full of carotenoids and several lbs of vegetables in the same way that Mike Lustgarten eats them) - which should get you much further than most people even if you are not calorie-restricted. AFAIK, there aren't many studies done on animals that eat lbs of ultra-healthy vegetables each day (most studies feed animals shitty food). You do not need to eat grains - you can use monounsaturated fatty acids or short-chain fatty acids as a primary energy source on top of a diet primarily composed of fruits and vegetables. 
 
-Repeated exposure to bitter-containing vegetables may acclimatize yourself to vegetables enough such that they taste amazing even when raw (at this point I am even fully capable of eating cabbage raw, if needed). Particularly important vegetables are ones containing allicins (onions, garlic) - sulfur is a HUGE antioxidant, cruciferous vegetables (fewest downsides of any), asparagus, kale (easily contaminated with pesticides). Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios.
+Repeated exposure to bitter-containing vegetables may acclimatize yourself to vegetables enough such that they taste amazing even when raw (at this point I am even fully capable of eating cabbage raw, if needed). Particularly important vegetables are ones containing allicins (onions, garlic) - sulfur is a HUGE antioxidant, cruciferous vegetables (fewest downsides of any), asparagus, kale (easily contaminated with pesticides). Mushrooms have ergothionine (which reduces brain aging!). 
+Organic strawberries are the healthiest fruit as they have vegetable-like calorie densities. Spices are good, but avoid imported spices as they may be contaminated with heavy metals. Some CR aficidianos go for consuming peels over consuming the entire fruit, as they have much higher nutrient to calorie ratios. 
 
 see EWG group for vegetables contaminated by organophosphate pesticides.
 
@@ -34,9 +35,7 @@ Get a brain MRI every few years or so (to measure changes in brain volume). 7T o
 
 Try to do neurofeedback to calm a brain (esp do what you can to calm DMN). Get QEEG to see areas of your brain where you can see more work on. Meditation can help calm a brain down and make brain cells fire less - it can also decrease gray matter loss with age. 
 
-Modafinil and caffeine are both antioxidant stimulants that suppress appetite. Methylphenidate and Adderall also suppress appetite and increae energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
-
-Mushrooms (esp ergothionine) have insane amounts of nutrients to calorie ratio. Generally I go for foods that maximize nutrients to calorie ratio. 
+Modafinil and caffeine are both antioxidant stimulants that suppress appetite (caffeine has SO many weirdly positive effects on longevity). Methylphenidate and Adderall also suppress appetite and increae energy, but may have neurotoxic effects (Adderall much more so than methylphenidate). There are preliminary studies on transplantation of neurons into Parkinson's brains (grafts) but they are at their early stages and they still haven't recaptured the right circuit. 
 
 Increase deep sleep. There are technologies to play brainwaves at you that can increase it (also play 40Hz to possibly clear out beta-amyloid) - but these technologies may not be developed for a while. 
 
