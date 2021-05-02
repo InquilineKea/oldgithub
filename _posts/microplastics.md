@@ -9,6 +9,9 @@ Traditionally, many have said that certain plastics are safer than others (eg th
 
 What's more, we're in an era where bioplastics (such as polylactic acid) may now be more manufacturable than ever. Do what you can to accelerate development into bioplastics to make it safer for all of us to switch to plastics sooner rather than later.. (creating or starting a startup to create alternatives to microplastics may be THE thing to do). Get or fund an analytical chemist to fund the measurement of these microplastics in common food containers (like they did for plastic water bottles)
 
+BRING THIS TO THE ATTENTION OF RAY DALIO/JEFF BEZOS/BALAJI AND MAKE THEM WANT TO FUND ALTERNATIVES TO PLASTICS (I suspect these 3 more than many others)
+
+
 Some SF grocery bags are "decomposable/biodegradable" but it is unknown if the plastics contained in these are less harmful than the plastics found in humans. 
 
 
