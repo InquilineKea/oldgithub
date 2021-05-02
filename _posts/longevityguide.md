@@ -36,7 +36,7 @@ Organic strawberries are the healthiest fruit as they have vegetable-like calori
 
 Shirataki noodles are intensely filling for so few calories, but they all seem packaged in very plastic-y containers (do what you can to make them not packaged in horrible plastics)
 
-see EWG group for fruits/vegetables contaminated by organophosphate pesticides. Most fruits are more heavily contaminated by pesticides than vegetables. Apples/grapes/strawberries and kale/spinach/bell peppers seem to have uniquely high levels of multiple residue contamination.
+see EWG group for fruits/vegetables contaminated by organophosphate pesticides. Most fruits are more heavily contaminated by pesticides than vegetables. Apples/grapes/strawberries and kale/spinach/bell peppers seem to have uniquely high levels of multiple residue contamination. Organophosphates can disrupt axonal transport in neurons. 
 
 Tomatoes and cucumbers are a great vegetable base for filling you up because they are super-easy-to-eat and low-bitterness.
 
