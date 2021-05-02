@@ -46,7 +46,7 @@ Taking rapamycin + metformin + acarbose may also get you in CR-ish similar state
 
 Get regular tracking of all metabolites/proteins (the more comprehensive the metabolite panel, the better - try to get metabolon or SomaLogic panels if you can, or panels used by the  Wyss-Corey lab). I found out I was plasmalogen-deficient by getting OpenCures, and NAD+ deficient by getting a jinfiniti NAD+ test. 
 
-Get DEXA scans (dexafit) to track muscle density and bone density over time. 
+Get DEXA scans (dexafit) to track muscle density and bone density over time (jarrow's bone supplements may be a way to increase bone density). 
 
 Get a brain MRI every few years or so (to measure changes in brain volume). 7T over 3T if you can, but any resolution helps. 
 
