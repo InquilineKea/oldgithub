@@ -34,7 +34,7 @@ PFAS might not be a microplastic, but have detrimental effects and you should st
 Furniture and carpets are a major source (so hard to avoid). Wood floors are better, also run air purifiers near overly fibrous furniture
 
 
-Some brands of almond milk may be coated in thermopak made of polyethylene based microplastics) - try to pick almond milk that isn't packaged in thermopaks (whole foods almond milk isn't, for instance)
+Some brands of almond milk may be coated in tetrapaks made of polyethylene based microplastics) - try to pick almond milk that isn't packaged in tetrapaks (whole foods almond milk isn't, for instance)
 
 Microplastics found in all human organs: https://www.theguardian.com/environment/2020/aug/17/microplastic-particles-discovered-in-human-organs
 
