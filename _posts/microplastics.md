@@ -7,6 +7,8 @@ Microplastics (these nasty entropy-increasing substances) have a way of making i
 
 >Despite these limitations and the often observed absence of a clear dose-dependence of the effects (in particular for gene expression studies), there seem to be several consistent effects. Several studies reported the accumulation of micro- and nanoplastics in brain tissue of fish and indications that micro- and nanoplastics can cross the blood-brain barrier [22, 79, 80, 86]. This is confirmed by additional literature observing blood-brain barrier permeability for polystyrene nanoparticles in vivo [110] and internalization in neuronal cells in vitro [97, 98, 111, 112]. Overall, these findings highlight that (human) exposure to micro- and nanoplastics can result in systemic uptake and/or accumulation in the brain.
 
+The plastic brain - https://particleandfibretoxicology.biomedcentral.com/articles/10.1186/s12989-020-00358-y?fbclid=IwAR2gxfFnwYIdQDh181tzKOzytdAzabEDTBcgwUiSi5bAfeGa7kgcjqskkww
+
 They may also be causing systematic demasculinzation/feminization of organisms in all environments, which may be an indirect cause of population decline seen in many animal populations (especially amphibians).
 
 Traditionally, many have said that certain plastics are safer than others (eg they advise you to look at the packaging and stay away from plastics labeled type 3, 4, or 5). This was done based on research from way before 2010 (based on suspicions about endocrine disruptors and styrene's notable toxicity on cells). Now it appears that microplastics of all kinds can bioaccumulate in the cell - even the more inert kinds that were previously considered benign (polyethylene or polypropylene), and it may be better for us to avoid all sources of plastic exposure altogether.
