@@ -13,6 +13,8 @@ One of the great perks of longevity is that doing things better than all others 
 
 Supplements to consider: carnosine/taurine/creatine (esp if vegan) - anti-glycation agents, glycine (esp as a precursor to glutathionine), N-acetyl-cysteine, turmuric/curcumin, metformin/rapamycin/acarbose, glucosamine, folic acid/B12 (folic acid and manganese levels seem to be most correlated with longevity), Vitamin D, caffeine/modafinil [for appetite suppression], selegiline, lithium (ESP impt for preserving the brain), 17alpha-estradiol (if male), deuterated heavy water [small amounts], deuterated PUFAs (experimental). 
 
+MUFAs: https://www.youtube.com/watch?v=G5zXa4DLvjY&fbclid=IwAR2LjH3wSK4v2t_fDALnHpPYV17Z53rz3yfhiFz-8CWgKC8bhLIu6r5zfO4
+
 If you don't have space for taking too many - I would make space for for rapamycin, lithium, and caffeine/modafinil.
 
 Some smart people I know (eg Alex Pustov) suggest methylene blue. 
